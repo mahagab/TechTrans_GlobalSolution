@@ -8,10 +8,11 @@ usuário poderá acessá-la para calcular a distância entre sua localização e
 pelo app usando o react native map view e o google directions. </p>
 
 <h2>Nome dos Integrantes</h2>
+<ul>
 <li>ALBERTO JANUARIO RODRIGUES JUNIOR RM: 86332</li>
 <li>BRUNO TOMMASO FITTI RM: 84543</li>
 <li>DIOGO MOREIRA FARIA RM: 86987</li>
 <li>GABRIEL HENRIQUE MAHMOUD CARDOSO RM: 89166</li>
 <li>GUSTAVO DALBERTO MULLER RM: 84111</li>
 <li>LUCAS RIBEIRO LAPINHA RM: 88257</li>
-<li>PAULO GURGEL TUDINI RM: 88960</li>
+<li>PAULO GURGEL TUDINI RM: 88960</li></ul>
